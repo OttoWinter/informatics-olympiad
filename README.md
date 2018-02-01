@@ -7,4 +7,5 @@ A collection of informatics olympiad tasks I've completed over the years.
 * [BATHROOM](BATHROOM) - Ad-Hoc Google Code Jam
 * [AGGRCOW](AGGRCOW) - Binary Search
 * [AKTIEN](AKTIEN) - Simple Linear Algorithm
-* [GSS1](GSS1) - Advanced Segment Tree
+* [GSS1](GSS1) - Segment Tree
+* [GSS2](GSS2) - Advanced Segment Tree
